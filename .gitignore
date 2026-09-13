@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# openFrameworks / build output
+obj/
+build/
+bin/*
+!bin/data/
+!bin/data/**
+
+# Xcode user-specific files
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# Visual Studio user-specific files
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.VC.opendb
+
+# Logs and temporary files
+*.log
+*.tmp
