@@ -2,7 +2,9 @@
 
 A 3D C++ landing game built with openFrameworks. Pilot a hot-air balloon across an island environment, manage a limited fuel supply, and land safely on one of three difficulty-rated landing pads. The project combines force-based movement, octree collision queries, multiple camera modes, and shader-driven particle effects.
 
-<!-- Add the gameplay trailer/GIF immediately below this introduction. -->
+## Gameplay Trailer
+
+[Watch the full gameplay trailer on YouTube](https://youtu.be/Ve9dyD27C90)
 
 Developed as a San José State University **CS 134 final project** by **Ramya Nayak** and **Sanjana Nagwekar** in May 2025.
 
